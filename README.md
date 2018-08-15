@@ -26,8 +26,8 @@ AirBnB mobile app clone using React Native & Redux
 - Run on IOS or Android projects in emulator
 
 ## Login details
-- email: web@imandy.ie
-- password: 12345
+contact me : 
+id.alimurtadho@gmail.com
 
 ## Dependencies
 - react
